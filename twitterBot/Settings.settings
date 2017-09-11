@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="twitterBot" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="customer_key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gZG9lasfDFwX6eVlm2caaKDiL</Value>
+    </Setting>
+    <Setting Name="customer_key_secret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">fjYbDHQuQdO01vilKZqjo7hlr1xRQnBMqPLjD6O7J7YT9VYqRR</Value>
+    </Setting>
+    <Setting Name="access_token" Type="System.String" Scope="User">
+      <Value Profile="(Default)">885177134247026688-PU0JKekt5mepf43MibWjyK1PGWkN9V8</Value>
+    </Setting>
+    <Setting Name="access_token_secret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F5hSvp10QmBpUHC4Qm1GPmbBdinubi0FrS1KpugUarD49</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
